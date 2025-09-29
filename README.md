@@ -8,7 +8,7 @@ Licensed under the MIT License (view LICENSE.md for more information)
 
 <div align="center">
   <h1 align="center">GBA Online</h1>
-  <p align="center">Emulate GBA games, free and in your browser!</p>
+  <p align="center">Emulate GBA games, free and in your browser! (This is a fork of a different website, I don't own this one)</p>
 
   <p align="center"><a target="_blank" href="https://gba.js.org">🔗 gba.js.org</a></p>
 
